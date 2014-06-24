@@ -11,3 +11,5 @@ multiple-cursors/*.elc
 multiple-cursors/elpa
 
 jshint-mode/*.elc
+
+ac-comphist.dat
