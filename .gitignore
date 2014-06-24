@@ -1,0 +1,13 @@
+*.elc
+elpa
+/TAGS
+.rvmrc
+
+expand-region/*.elc
+expand-region/elpa
+expand-region/.rvmrc
+
+multiple-cursors/*.elc
+multiple-cursors/elpa
+
+jshint-mode/*.elc
