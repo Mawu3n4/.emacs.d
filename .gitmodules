@@ -1,0 +1,6 @@
+[submodule "multiple-cursors"]
+	path = multiple-cursors
+	url = git@github.com:magnars/multiple-cursors.el.git
+[submodule "expand-region"]
+	path = expand-region
+	url = git@github.com:magnars/expand-region.el.git
