@@ -13,3 +13,7 @@ multiple-cursors/elpa
 jshint-mode/*.elc
 
 ac-comphist.dat
+
+auto-save-list/
+
+.mc-lists.el
