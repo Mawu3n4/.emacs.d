@@ -7,3 +7,6 @@
 [submodule "j-mode"]
 	path = j-mode
 	url = https://github.com/zellio/j-mode.git
+[submodule "emacs-calfw"]
+	path = emacs-calfw
+	url = git@github.com:kiwanami/emacs-calfw.git
